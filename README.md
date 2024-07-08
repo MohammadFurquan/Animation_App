@@ -14,7 +14,7 @@ Sound Cloud is an engaging and interactive Android animation application develop
 ## Screenshots
 
 
-![Screenshot 3]()
+![Screenshot 3](https://github.com/MohammadFurquan/Animation_App/blob/main/Screenshots.jpg)
 
 ## Installation
 
