@@ -23,7 +23,7 @@ To run this application on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/SoundCloudAnimationApp.git
+   git clone https://github.com/MohammadFurquan/SoundCloudAnimationApp.git
 
 2. **Open the project in Android Studio:
 - Open Android Studio.
