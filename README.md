@@ -40,3 +40,30 @@ To run this application on your local machine, follow these steps:
 - Click on the UFO to see it ascend into space and hear the UFO sound effect.
 
 ## Technologies Used
+- **Android Studio**: Development environment for building Android applications.
+- **Java/Kotlin**: Programming languages used for Android development.
+- **XML**: Used for designing the layout of the application.
+
+## Project Structure
+<pre>
+SoundCloudAnimationApp/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── soundcloud/
+│   │   │   │               └── MainActivity.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   └── activity_main.xml
+│   │   │   │   ├── drawable/
+│   │   │   │   │   └── (images and animations)
+│   │   │   │   └── raw/
+│   │   │   │       └── ufo_sound.mp3
+│   │   │   ├── AndroidManifest.xml
+│   ├── build.gradle
+├── build.gradle
+└── README.md
+</pre>
