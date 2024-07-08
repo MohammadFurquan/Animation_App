@@ -25,7 +25,7 @@ To run this application on your local machine, follow these steps:
    ```sh
    git clone https://github.com/MohammadFurquan/SoundCloudAnimationApp.git
 
-2. **Open the project in Android Studio:
+2. **Open the project in Android Studio**:
 - Open Android Studio.
 - Select File > Open.
 - Navigate to the cloned repository folder and select it.
